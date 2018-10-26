@@ -1,0 +1,63 @@
+name: divesite_profiles
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.6=h470a237_2
+  - ca-certificates=2018.10.15=ha4d7672_0
+  - certifi=2018.8.24=py35_1001
+  - cmocean=1.2=py_0
+  - cycler=0.10.0=py_1
+  - dbus=1.13.0=h3a4f0e9_0
+  - expat=2.2.5=hfc679d8_2
+  - fontconfig=2.13.1=h65d0f4c_0
+  - freetype=2.9.1=h6debe1e_4
+  - gettext=0.19.8.1=h5e8e0c9_1
+  - glib=2.56.2=h464dc38_0
+  - gst-plugins-base=1.12.5=hde13a9d_0
+  - gstreamer=1.12.5=h5856ed1_0
+  - icu=58.2=hfc679d8_0
+  - jpeg=9c=h470a237_1
+  - kiwisolver=1.0.1=py35h2d50403_2
+  - libffi=3.2.1=hfc679d8_5
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libgfortran-ng=7.2.0=hdf63c60_3
+  - libiconv=1.15=h470a237_3
+  - libpng=1.6.35=ha92aebf_2
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - libuuid=2.32.1=h470a237_2
+  - libxcb=1.13=h470a237_2
+  - libxml2=2.9.8=h422b904_5
+  - matplotlib=2.2.3=py35h8e2386c_0
+  - mkl_fft=1.0.6=py35_0
+  - mkl_random=1.0.1=py35_0
+  - ncurses=6.1=hfc679d8_1
+  - openssl=1.0.2p=h470a237_1
+  - pcre=8.41=hfc679d8_3
+  - pip=18.0=py35_1
+  - pthread-stubs=0.4=h470a237_1
+  - pyparsing=2.2.2=py_0
+  - pyqt=5.6.0=py35h8210e8a_7
+  - python=3.5.5=h5001a0f_2
+  - python-dateutil=2.7.3=py_0
+  - pytz=2018.5=py_0
+  - qt=5.6.2=hf70d934_9
+  - readline=7.0=haf1bffa_1
+  - setuptools=40.4.0=py35_1000
+  - sip=4.18.1=py35hfc679d8_0
+  - six=1.11.0=py35_1
+  - sqlite=3.25.1=hb1c47c0_0
+  - tk=8.6.8=ha92aebf_0
+  - tornado=5.1.1=py35h470a237_0
+  - wheel=0.31.1=py35_1001
+  - xorg-libxau=1.0.8=h470a237_6
+  - xorg-libxdmcp=1.1.2=h470a237_7
+  - xz=5.2.4=h470a237_1
+  - zlib=1.2.11=h470a237_3
+  - blas=1.0=mkl
+  - intel-openmp=2019.0=118
+  - mkl=2019.0=118
+  - numpy=1.15.0=py35h1b885b7_0
+  - numpy-base=1.15.0=py35h3dfced4_0
+prefix: /home/jbzambon/anaconda_v5.2/install/envs/divesite_profiles
+
